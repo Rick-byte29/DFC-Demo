@@ -1,5 +1,17 @@
 # DFC Demo
 
+## Open the website files
+
+The complete website is in the [`dist` folder](./dist) on the **main** branch.
+
+- [Website HTML](./dist/index.html)
+- [Stylesheet](./dist/style.css)
+- [Menu and enquiry JavaScript](./dist/app.js)
+- [All four food images](./dist/assets)
+- [Download the complete repository](https://github.com/Rick-byte29/DFC-Demo/archive/refs/heads/main.zip)
+
+To run the site, download and extract the repository, then open `dist/index.html` in your browser, or use the local server command below. GitHub's file view displays source code, not the rendered website.
+
 Responsive, long-form DFC restaurant website with menu categories and call/WhatsApp enquiry buttons. No cart or checkout.
 
 ## Run locally
